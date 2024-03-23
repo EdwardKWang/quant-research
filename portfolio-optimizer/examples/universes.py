@@ -18,7 +18,7 @@ corresponding to various indexes. We run it periodically to update the lists
 to the current constituents of each index.
 """
 
-# This was generated on 2024-03-23 11:17:57.892796+00:00
+# This was generated on 2024-03-23 11:21:38.674631+00:00
 
 SP500 = \
 ['A', 'AAL', 'AAPL', 'ABBV', 'ABNB', 'ABT', 'ACGL', 'ACN', 'ADBE', 'ADI',
