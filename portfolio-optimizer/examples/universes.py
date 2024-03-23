@@ -11,23 +11,14 @@ to the current constituents of each index.
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#    http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-"""This module contains up-to-date universes of stock tickers.
-
-If you run it attempts to download updated lists from the relevant
-Wikipedia pages and it rewrites itself. Be careful when you run it
-and check that the results make sense.
-
-We could also save each universe in a ``json`` file.
+"""
+This example module is available in the repository. See the docstring below 
+for its explanation. It’s used by other examples to get lists of stock tickers 
+corresponding to various indexes. We run it periodically to update the lists 
+to the current constituents of each index.
 """
 
-# This was generated on 2024-03-20 00:26:10.479769+00:00
+# This was generated on 2024-03-23 10:46:50.934368+00:00
 
 SP500 = \
 ['A', 'AAL', 'AAPL', 'ABBV', 'ABNB', 'ABT', 'ACGL', 'ACN', 'ADBE', 'ADI',
